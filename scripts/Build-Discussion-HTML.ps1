@@ -1,4 +1,4 @@
-$m3d1_path = "C:\Users\hellw\OneDrive - Colorado Community College System\COM120\Module-3\M3D1_Research-Discussion"
+$m3d1_path = "C:\Users\hellw\OneDrive - Colorado Community College System\COM125\Module-3\M3D1_Research-Discussion"
 
 Write-Host 'Cleaning LaTeX Project'
 Remove-Item "$m3d1_path\*_temp.tex"
